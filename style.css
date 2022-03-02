@@ -31,8 +31,9 @@ body {
 }
 
 .content {
+    background-image: url('assets/bg.png');
     min-height: 100vh;
-    padding-top: 52px;
+    background-size: cover;
 }
 
 .logo-link {
